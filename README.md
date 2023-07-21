@@ -6,7 +6,7 @@
 </a>
 
 <h1 style="text-align:center;border:0;font-family:'Poppins',sans-serif;font-weight:600;letter-spacing:1.2px;" align="center">Hi! I'm Ario Prima<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">A passionate Backend Developer and Frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Backend and Frontend developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQSocHc8PdV2mhF_CjnykiIs7whgfpyWoHg&usqp=CAU">
 
