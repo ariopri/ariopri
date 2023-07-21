@@ -1,6 +1,5 @@
-<a href="https://github.com/arioprima/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=arioprima">
-</a>
+
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQSocHc8PdV2mhF_CjnykiIs7whgfpyWoHg&usqp=CAU">
 <a href="https://github.com/arioprima?tab=followers">
   <img src="https://img.shields.io/github/followers/arioprima?label=Followers&style=social" alt="GitHub Badge">
 </a>
